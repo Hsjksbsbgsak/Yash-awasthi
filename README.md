@@ -1,2 +1,2 @@
-# Yash-awasthi
+contemplator.in
 Quotes 
