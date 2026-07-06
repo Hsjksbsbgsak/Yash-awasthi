@@ -1,2 +1,0 @@
-contemplator.in
-Quotes 
